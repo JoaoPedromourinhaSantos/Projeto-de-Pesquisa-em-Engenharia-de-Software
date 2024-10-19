@@ -15,10 +15,10 @@ Avaliar a eficácia das ferramentas de teste automatizado baseadas em IA em comp
 
 # Objetivos específicos
 Os objetivos específicos são:
-1. _Comparar a cobertura de testes gerados por ferramentas tradicionais e por ferramentas baseadas em IA;
-2. _Medir a eficácia das ferramentas de IA na detecção de defeitos comparada às técnicas e ferramentas tradicionais de testes;
-3. _Analisar o impacto dessas ferramentas no tempo de desenvolvimento;
-4. _Analisar se o uso da IA gera mais qualidade ao software comparando a projetos que não utilizam.
+1. _Comparar a cobertura de testes gerados por ferramentas tradicionais e por ferramentas baseadas em IA_;
+2. _Medir a eficácia das ferramentas de IA na detecção de defeitos comparada às técnicas e ferramentas tradicionais de testes_;
+3. _Analisar o impacto dessas ferramentas no tempo de desenvolvimento_;
+4. _Analisar se o uso da IA gera mais qualidade ao software comparando a projetos que não utilizam_.
    
 # Materiais e Métodos
 As ferramentas, dados, métricas, forma de amostragem, análise estatística são:
