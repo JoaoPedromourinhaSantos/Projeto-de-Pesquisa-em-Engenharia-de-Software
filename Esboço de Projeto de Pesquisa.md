@@ -25,12 +25,12 @@ As ferramentas, dados, métricas, forma de amostragem, análise estatística sã
 
 * Ferramentas de teste baseadas em IA: Testim, Applitools, ChatGPT, Refraction.dev, Ferramentas tradicionais de teste automatizado (Selenium), Ferramentas tradicionais (VSCODE).
 
-* Projetos com histórico de testes automatizados, medindo cobertura de testes e defeitos identificados (considerando métricas como o número de falhas por sprint).
+* Projetos com histórico de testes automatizados, medindo cobertura de testes e defeitos identificados ao longo do ciclo de desenvolvimento.
 
 * Seleção de 5 projetos de diferentes domínios que não utilizaram de IA,considerando tanto projeto open-sourceconsiderando tanto projetos open-source quanto empresariais.
   
 * Seleção de 5 projetos de diferentes domínios que utilizam ferramentas de teste tradicionais e baseadas em IA.
 
-* Cobertura de código, número de defeitos detectados, tempo de execução dos testes.
+* Cobertura de código, número de defeitos detectados, tempo de execução dos testes, facilidade de manutenção do código.
   
 * Análise comparativa entre as duas abordagens e aos projetos, utilizando métricas de qualidade e tempo de execução dos testes.
