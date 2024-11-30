@@ -5,10 +5,10 @@
 * Lesandro Ponciano dos Santos
 
 # Tema
-_Quais são os riscos associados ao uso de ferramentas de IA em testes de software, em comparação com métodos tradicionais, como os testes manuais, e qual é o impacto desse uso no desempenho dos desenvolvedores?_.
+_Avaliação de Ferramentas de Teste de software Baseadas em IA para Engenharia de Software em relação aos desenvolvedores._.
 
 # Problema
-O problema a ser resolvido na pesquisa é _Com o avanço das tecnologias que utilizam de Inteligência Artificial (IA), diversas ferramentas de teste automatizado baseadas em IA estão surgindo e sendo desenvolvidas visando melhorar a eficiência no processo de teste de software. No entanto, será que as ferramentas de teste que utilizam IA são mais ou menos eficazes em comparação às abordagens/ferramentas tradicionais na cobertura de testes e na detecção de defeitos por devs? Além disso, qual seria o impacto do uso dessas ferramentas na qualidade do software e em relação a seu tempo de desenvolvimento_?
+O problema a ser resolvido na pesquisa é _Com o avanço das tecnologias que utilizam de Inteligência Artificial (IA), diversas ferramentas de teste automatizado baseadas em IA estão surgindo e sendo desenvolvidas visando melhorar a eficiência no processo de teste de software. No entanto, será que as ferramentas de teste que utilizam IA são mais ou menos eficazes em comparação às abordagens/ferramentas tradicionais na cobertura de testes e na detecção de defeitos por devs? Além disso, qual seria o impacto do uso dessas ferramentas na qualidade do software e em relação a seu tempo de desenvolvimentoe nos grupos de desenvolvedores_?
 
 # Objetivo geral
 O objetivo geral a ser alcançado na pesqusia é _Avaliar a eficácia das ferramentas de teste automatizado baseadas em IA em comparação com ferramentas tradicionais, em projetos de engenharia de software, no que diz respeito à cobertura de código, detecção de defeitos e impacto no processo de desenvolvimento com relação ao tempo e qualidade_.
